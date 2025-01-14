@@ -1,0 +1,15 @@
+* {
+  font-family: "Inter", serif;
+  box-sizing: border-box;
+  /* background-color: #ecf4ff; */
+}
+
+.text-primary {
+  color: #1973f4;
+}
+
+.website-container {
+    max-width: 1400px;
+    margin: 0px auto;
+  }
+  
